@@ -6,3 +6,5 @@
 [![Unit Testing](https://github.com/Aakash241/M1_PROJECT_2022/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Aakash241/M1_PROJECT_2022/actions/workflows/unit-test.yml)
 
 [![Valgrind](https://github.com/Aakash241/M1_PROJECT_2022/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Aakash241/M1_PROJECT_2022/actions/workflows/valgrind.yml)
+
+[![Windows unit testing](https://github.com/Aakash241/M1_PROJECT_2022/actions/workflows/windows-unity.yml/badge.svg)](https://github.com/Aakash241/M1_PROJECT_2022/actions/workflows/windows-unity.yml)
